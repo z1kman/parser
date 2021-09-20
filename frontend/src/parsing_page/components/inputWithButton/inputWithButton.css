@@ -1,0 +1,22 @@
+.root{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.components_block{
+    width: 100%;
+    max-width: 1300px;
+    min-width: 600px;
+    display: flex;
+    flex-direction: row;
+}
+.input_block{
+    width: 90%;
+}
+.button_block{
+    width: 10%;
+}
+button{
+    height: 100%;
+
+}
